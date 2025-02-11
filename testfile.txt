@@ -1,1 +1,13 @@
-testinhalt
+
+On-Premises:
+- Windows Server (AD, File-/Printserver), MS-SQL Server
+- Hyper-V (MS- Virtualisierung)
+- WSUS, Veeam, Mailstore (Updates, Backup, Archivierung)
+- ServiceDesk (Helpdesk, Lizenz- und Softwareverwaltung)
+- Creo/Windchill, Siemens NX, Eplan (CAD, E-CAD)
+- Siemens TIA, Simatic Step 7 (Siemens Automation)
+
+Cloud:
+- Exchange Online (E-Mail Server)
+- Sophos, Veeam365 (Virenscanner, Cloud-Sicherung)
+- Azure/MS-Office365
